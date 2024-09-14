@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogs@amitrai.me</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on blogs@amitrai.me</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Sep 2024 21:21:55 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is dev log</title>
+      <link>http://localhost:1313/blogs/blogs/what-is-dev-log/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blogs/what-is-dev-log/</guid>
+      <description>What is dev log</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/blogs/blogs/about-us/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blogs/about-us/</guid>
+      <description>This would be about t us page.</description>
+    </item>
+    <item>
+      <title>Logs is linux</title>
+      <link>http://localhost:1313/blogs/logs-in-linux/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/logs-in-linux/</guid>
+      <description>what is event queue what is event queue</description>
+    </item>
+    <item>
+      <title>Privacy policy</title>
+      <link>http://localhost:1313/blogs/blogs/privacy-policy/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blogs/privacy-policy/</guid>
+      <description>Privacy policies descriptions</description>
+    </item>
+    <item>
+      <title>swagger configurations</title>
+      <link>http://localhost:1313/blogs/blogs/setup-swagger/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blogs/setup-swagger/</guid>
+      <description>setup swagger from new</description>
+    </item>
+    <item>
+      <title>Terms of Use</title>
+      <link>http://localhost:1313/blogs/blogs/terms-of-use/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blogs/terms-of-use/</guid>
+      <description>The summery of terms of use</description>
+    </item>
+    <item>
+      <title>What is event Queue</title>
+      <link>http://localhost:1313/blogs/javascript/what-is-event-queue/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/javascript/what-is-event-queue/</guid>
+      <description>What is logs logs in linux</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blogs/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/about/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Channels in Golang</title>
+      <link>http://localhost:1313/blogs/golang/channels-in-golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/golang/channels-in-golang/</guid>
+      <description>All about channels in golang</description>
+    </item>
+  </channel>
+</rss>

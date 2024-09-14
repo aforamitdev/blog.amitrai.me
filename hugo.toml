@@ -1,0 +1,37 @@
+baseURL = 'https://blog.amitrai.me'
+languageCode = 'en-us'
+title = 'blogs@amitrai.me'
+theme = 'github-style'
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+
+[params]
+  author = "Amit Rai"
+  description = "In solitude, where we are least alone."
+  github = "aforamitdev"
+  twitter = "aforamitrai"
+  linkedin = "aforamit"
+  
+  email = "aforamit@gmail.com"
+  url = "https://blog.amitrai.me"
+  keywords = "blog,linux, golang, javascript"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github.png"
+  avatar = "/images/avatar.png"
+  headerIcon = "/images/GitHub-Mark-Light-32px.png"
+  location = "India"
+  enableSearch = true
+
+
+
+[outputs]
+  home = ["html", "json"]
+
+[outputFormats.json]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = false
